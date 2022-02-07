@@ -1,8 +1,8 @@
-# Pyrogram and Telethon String Session Bot [StringBot](https://t.me/NastyStringbot)
+# Pyrogram and Telethon String Session Bot [StringBot](https://t.me/HiroshiXbot)
 
 > A star ⭐ from you means a lot to us!
 
-<p align="center"><a href="https://t.me/PrimeSupportGroup"><img src="https://telegra.ph/file/d6b61422b8a81da6e1d65.jpg" width="2000"></a></p>
+<p align="center"><a href="https://t.me/hiroshisupport"><img src="https://telegra.ph/file/d6b61422b8a81da6e1d65.jpg" width="2000"></a></p>
 
 Telegram bot to generate pyrogram and telethon string session.
 
@@ -13,7 +13,7 @@ Telegram bot to generate pyrogram and telethon string session.
 </h2>
 
 <p align="center">
-<a href="https://dashboard.heroku.com/new?template=https://github.com/muhammadrizky16/templat-userbot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>  
+<a href="https://dashboard.heroku.com/new?template=https://github.com/UserbotMaps/Hiroshi-String"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>  
 <a href="https://telegram.dog/XTZ_HerokuBot?start=bXVoYW1tYWRyaXpreTE2L1N0cmluZ0t5eSBtYXN0ZXI"><img src="https://img.shields.io/badge/Deploy%20Via%20Telegram-blue?style=for-the-badge&logo=telegram" width="250""/</a>  </p>
 
 
@@ -21,7 +21,7 @@ Telegram bot to generate pyrogram and telethon string session.
 
 1. Clone the repo
    ```markdown
-   git clone https://github.com/muhammadrizky16/StringKyy
+   git clone https://github.com/UserbotMaps/Hiroshi-String
    ```
 2. Get a DATABASE_URL. If you don't know how, deploy using Heroku Button only or delete database things as it's not a compulsion.
    
