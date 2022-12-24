@@ -2,6 +2,7 @@
   "name": "String Session Generator",
   "description": "Telegram bot to generate pyrogram string session",
   "logo": "https://telegra.ph/file/7ec22c82f580a334dd13e.jpg",
+  "stack": "heroku-20",
   "keywords": [
     "telegram",
     "bot",
@@ -35,7 +36,7 @@
     "API_ID": {
       "description": "Get this value from my.telegram.org.",
       "required": true,
-      "value": ""
+      "value": "izzy ganteng"
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org.",
