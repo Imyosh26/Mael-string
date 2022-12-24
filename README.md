@@ -21,7 +21,7 @@ Telegram bot to generate pyrogram and telethon string session.
 
 1. Clone the repo
    ```markdown
-   git clone https://github.com/UserbotMaps/Hiroshi-String
+   git clone https://github.com/Imyosh26/Mael-string
    ```
 2. Get a DATABASE_URL. If you don't know how, deploy using Heroku Button only or delete database things as it's not a compulsion.
    
@@ -64,9 +64,9 @@ Telegram bot to generate pyrogram and telethon string session.
 
 ## Support
 
-Channel :- [Support Channel](https://t.me/ahhsudahlahhh)
+Channel :- [Support Channel](https://t.me/projectdaps)
 
-Group Chat :- [Group support](https://t.me/NastySupportt)
+Group Chat :- [Group support](https://t.me/privatedap)
 
 ## :)
 
