@@ -4,16 +4,14 @@ from pyrogram.types import InlineKeyboardButton
 class Data:
     # Start Message
     START = """
-Halo {}
+ʜᴀʟʟᴏ {}
 
-Selamat datang {}
+sᴇʟᴀᴍᴀᴛ ᴅᴀᴛᴀɴɢ {}
 
-Jika kamu tidak percaya bot ini, 
-1) gausah baca pesan ini
-2) blokir bot atau delete chat
+ʙᴏᴛ ɪɴɪ ᴀᴍᴀɴ ᴅᴀɴ ᴛᴇʀᴘᴇʀᴄᴀʏᴀ, sɪsᴛᴇᴍ ᴋᴇʀᴊᴀ ʙᴏᴛ ɪɴɪ ᴀᴅᴀʟᴀʜ ᴘᴇɴɢᴀᴍʙɪʟᴀɴ sᴛʀɪɴɢ sᴇᴀssɪᴏɴ ᴅᴀɴ ʟᴀɴɢsᴜɴɢ ᴅɪ ᴋɪʀɪᴍ ᴋᴇ ᴘᴇsᴀɴ ᴛᴇʀsɪᴍᴘᴀɴ
 
-Bot ini Bekerja Untuk Membantu Kamu Mendapatkan String Session Via Bot. Rekomendasi Jika Ingin Mengambil String Gunakan Akun Lain, Agar Tidak Delay. Terimakasih
-By @Bisubiarenak
+ᴍᴀɪɴᴛᴇɴᴀɴᴄᴇ ʙʏ : @itsdaps
+
     """
 
     # Home Button
@@ -29,12 +27,12 @@ By @Bisubiarenak
     # Rest Buttons
     buttons = [
         [InlineKeyboardButton("🔥 sᴛᴀʀᴛ ɢᴇɴᴇʀᴀᴛɪɴɢ sᴇssɪᴏɴ 🔥", callback_data="generate")],
-        [InlineKeyboardButton("ᴍᴀɪɴᴛᴀɴᴇᴅ ʙʏ", url="https://t.me/bombleebas")],
+        [InlineKeyboardButton("ᴍᴀɪɴᴛᴀɴᴇᴅ ʙʏ", url="https://t.me/projectdaps")],
         [
             InlineKeyboardButton("ᴄᴀʀᴀ ᴍᴇɴɢɢᴜɴᴀᴋᴀɴ sᴀʏᴀ ❔", callback_data="help"),
             InlineKeyboardButton("ᴀʙᴏᴜᴛ", callback_data="about")
         ],
-        [InlineKeyboardButton("ɪɴғᴏ ʙᴏᴛ ʟᴀɪɴ", url="https://t.me/hiroshisupport")],
+        [InlineKeyboardButton("ɪɴғᴏ ʙᴏᴛ ʟᴀɪɴ", url="https://t.me/privatedap")],
     ]
 
     # Help Message
@@ -55,11 +53,11 @@ By @Bisubiarenak
 
 Sebuah telegram bot untuk mengambil pyrogram dan telethon string session by @HiroshiXbot
 
-Group Support : [ɢᴀʙᴜɴɢ ᴋᴏɴᴛᴏʟ](https://t.me/hiroshisupport)
+Group Support : [ɢᴀʙᴜɴɢ ᴋᴏɴᴛᴏʟ](https://t.me/hirt)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Developer : @Bisubiarenak
+Developer : @itsdaps
     """
